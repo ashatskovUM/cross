@@ -86,7 +86,7 @@ function checkAllWordsCompleted() {
     if (allDisabled) {
         // Показ пульсирующей картинки в левом верхнем углу
         const pulseImage = document.createElement('a');
-        pulseImage.href = 'https://example.com'; // Ссылка, куда ведёт картинка
+        pulseImage.href = 'https://disk.yandex.ru/d/oAUxNU4iv9jjow'; // Ссылка, куда ведёт картинка
         pulseImage.target = '_blank';
         pulseImage.style.position = 'fixed';
         pulseImage.style.top = '20px';
